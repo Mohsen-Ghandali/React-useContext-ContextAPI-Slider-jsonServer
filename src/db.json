@@ -1,0 +1,34 @@
+{
+    "slider": [
+           {
+               "id": 1,
+               "url": " https://artisan.ba/img/home_slider/desktop/5.webp",
+               "alt": "slider1",
+               "title": "Hallo-Welt!",
+               "description": "Lorem Ipsum is simply..."
+           },
+           {
+               "id": 2,
+               "url": "https://www.spenceandlyda.com.au/pub/media/mgs_brand/a/r/artisan-australian-custom-furniture.jpg",
+               "alt": "slider2",
+               "title": "Hallo-Welt!",
+               "description": "Lorem Ipsum is simply..."
+           },
+           {
+               "id": 3,
+               "url": "https://artisan.ba/img/home_slider/desktop/10.webp",
+               "alt": "slider3",
+               "title": "Hallo-Welt!",
+               "description": "Lorem Ipsum is simply..."
+           },
+           {
+               "id": 4,
+               "url": "https://artisan.ba/img/home_slider/desktop/8.webp",
+               "alt": "slider4",
+               "title": "Hallo-Welt!",
+               "description": "Lorem Ipsum is simply..."
+    
+           }
+             ]
+}
+    
